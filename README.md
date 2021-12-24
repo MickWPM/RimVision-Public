@@ -5,6 +5,11 @@ This is a personal toy project to load Rimworld save files (.rws) and walk aroun
 
 This is a very early build but enough people expressed interest that I wanted to get it out for people to play with over the holidays.
 
+### Brief showcase (YouTube link)
+
+[![RimVision showcase](https://img.youtube.com/vi/UwOMcUFtV3I/maxresdefault.jpg)](https://youtu.be/UwOMcUFtV3I)
+
+
 ## Current functionality
 **Interaction**
 - Walk around in First Person or fly around with free camera
@@ -47,6 +52,15 @@ Fast movement - Left shift (hold)
 There are two builds available; both are **very** early. If you have a GitHub account please add any bugs etc through the **Issues** tab.
 
 The only difference between the builds is the shader used for models; a build with the initial experiments with outline shading to break up monotonous textures is included but it may have performance impacts so both options are provided.
+
+**RimVision (with outline shader)**
+
+https://github.com/MickWPM/RimVision-Public/releases/download/EarlyDemoOutline/RimvisionPreview-Outlines.zip
+
+**RimVision (basic)**
+
+https://github.com/MickWPM/RimVision-Public/releases/download/EarlyDemo/RimvisionPreview.zip
+
 
 ## Screenshots
 
