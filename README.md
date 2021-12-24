@@ -105,6 +105,9 @@ The model TorchLamp.obj is loaded. As there is no material file it uses a basic 
 
 
 ### Getting information for mods
+_Note save file location is by default:_
+
+_C:\Users\User\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Saves_
 
 #### Modded Items
 For items added in mods you will need to look inside the save file (\*.rws). This can be opened with a text editor (right click, open with) but I recommend Notepad++ as they are quite large files.
