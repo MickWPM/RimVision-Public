@@ -30,6 +30,8 @@ This is a very early build but enough people expressed interest that I wanted to
 
 ## Controls
  
+ If you have a lot of save files, the best way to "scroll" through them on the main menu is click and drag up/down. The user interface/experience will be overhauled down the track!
+ 
 Quit - Alt-F4
 Return to main menu - Escape
 
